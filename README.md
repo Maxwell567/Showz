@@ -1,3 +1,7 @@
+# TRAVILLO
+
+Showz is a showcase Dapp working with celo stablecoin cUSD. The Purpose is to allow users to add or shocase product, idea, art work exhibition, designs and more for people to give feedbacks in terms of like or dislike. The Live demo [HERE](https://maxwell567.github.io/Showz/).
+
 # Install
 
 ```

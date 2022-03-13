@@ -190,6 +190,7 @@ contract Showz {
     );
 
     showcase[_index].donatedAmount[msg.sender] += _amount;
+    showcase[_index].totalAmountDonated += _amount;
 
     emit newDonation(showcase[_index].owner,_amount, msg.sender );
   }
